@@ -1,0 +1,24 @@
+[submodule "phy"]
+	path = phy
+	url = git@github.com:manusmad/phy.git
+[submodule "spikeinterface"]
+	path = spikeinterface
+	url = git@github.com:manusmad/spikeinterface.git
+[submodule "spikesorters"]
+	path = spikesorters
+	url = git@github.com:manusmad/spikesorters.git
+[submodule "spikely"]
+	path = spikely
+	url = git@github.com:manusmad/spikely.git
+[submodule "spikewidgets"]
+	path = spikewidgets
+	url = git@github.com:manusmad/spikewidgets.git
+[submodule "spiketoolkit"]
+	path = spiketoolkit
+	url = git@github.com:manusmad/spiketoolkit.git
+[submodule "spikecomparison"]
+	path = spikecomparison
+	url = git@github.com:manusmad/spikecomparison.git
+[submodule "spikeextractors"]
+	path = spikeextractors
+	url = git@github.com:manusmad/spikeextractors.git
